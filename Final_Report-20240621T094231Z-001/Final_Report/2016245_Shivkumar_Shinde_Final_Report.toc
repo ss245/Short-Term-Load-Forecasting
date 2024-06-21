@@ -1,0 +1,18 @@
+\contentsline {section}{\hbox to\@tempdima {\hfil }Abstract}{1}{section*.1}
+\contentsline {section}{\hbox to\@tempdima {\hfil }Acknowledgement}{2}{section*.2}
+\contentsline {section}{\hbox to\@tempdima {\hfil }Table of Contents }{4}{section*.4}
+\contentsline {section}{\hbox to\@tempdima {\hfil }List of Figures}{5}{section*.5}
+\contentsline {section}{\numberline {1}Introduction}{6}{section.1}
+\contentsline {section}{\numberline {2}Data Collection}{8}{section.2}
+\contentsline {section}{\numberline {3}Forecasting Methods \& Methodology}{9}{section.3}
+\contentsline {subsection}{\numberline {3.1}Naive Approach:}{9}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Moving Average:}{9}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Simple Exponential Smoothing:}{9}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Holt's Linear Trend Model:}{9}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Holt's Winter Model:}{10}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Auto-Regressive Integrated Moving Average (ARIMA)}{10}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}ANN (Feed Forward Neural Network FFNN) :}{11}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.8}Recurrent Neural Networks (RNN):}{11}{subsection.3.8}
+\contentsline {subsection}{\numberline {3.9}Long Short Term Memory (LSTM):}{12}{subsection.3.9}
+\contentsline {subsection}{\numberline {3.10}Methodology :}{13}{subsection.3.10}
+\contentsline {section}{\numberline {4}Results \& Conclusions :}{13}{section.4}

@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{fallah2019computational}
+S.~N. Fallah, M.~Ganjkhani, S.~Shamshirband, K.-w. Chau, Computational
+  intelligence on short-term load forecasting: A methodological overview,
+  Energies 12~(3) (2019) 393.
+
+\bibitem{moon2019comparative}
+J.~Moon, S.~Park, S.~Rho, E.~Hwang, A comparative analysis of artificial neural
+  network architectures for building energy consumption forecasting,
+  International Journal of Distributed Sensor Networks 15~(9) (2019)
+  1550147719877616.
+
+\bibitem{yang2019electric}
+T.~Yang, Electric load forecasting using long short-term memory algorithm.
+
+\end{thebibliography}

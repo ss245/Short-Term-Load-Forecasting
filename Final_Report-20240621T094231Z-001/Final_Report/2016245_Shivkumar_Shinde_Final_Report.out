@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section*.1}{Abstract}{}% 1
+\BOOKMARK [1][-]{section*.2}{Acknowledgement}{}% 2
+\BOOKMARK [1][-]{section*.4}{Table of Contents }{}% 3
+\BOOKMARK [1][-]{section*.5}{List of Figures}{}% 4
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 5
+\BOOKMARK [1][-]{section.2}{Data Collection}{}% 6
+\BOOKMARK [1][-]{section.3}{Forecasting Methods \046 Methodology}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Naive Approach:}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Moving Average:}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Simple Exponential Smoothing:}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.4}{Holt's Linear Trend Model:}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.5}{Holt's Winter Model:}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.6}{Auto-Regressive Integrated Moving Average \(ARIMA\)}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.7}{ANN \(Feed Forward Neural Network FFNN\) :}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.8}{Recurrent Neural Networks \(RNN\):}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.9}{Long Short Term Memory \(LSTM\):}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.10}{Methodology :}{section.3}% 17
+\BOOKMARK [1][-]{section.4}{Results \046 Conclusions :}{}% 18

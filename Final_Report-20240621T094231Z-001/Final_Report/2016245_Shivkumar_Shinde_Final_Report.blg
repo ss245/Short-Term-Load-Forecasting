@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: 2016245_Shivkumar_Shinde_Final_Report.aux
+The style file: elsarticle-num.bst
+Database file #1: mybib.bib
+Warning--empty journal in yang2019electric
+You've used 3 entries,
+            2937 wiz_defined-function locations,
+            686 strings with 5796 characters,
+and the built_in function-call counts, 850 in all, are:
+= -- 69
+> -- 30
+< -- 0
++ -- 12
+- -- 9
+* -- 63
+:= -- 139
+add.period$ -- 3
+call.type$ -- 3
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 21
+empty$ -- 89
+format.name$ -- 11
+if$ -- 203
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 3
+newline$ -- 17
+num.names$ -- 3
+pop$ -- 17
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 49
+stack$ -- 0
+substring$ -- 57
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 5
+width$ -- 4
+write$ -- 29
+(There was 1 warning)
